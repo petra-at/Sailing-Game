@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{5FEC972F-8321-F079-8C49-E6B7C5E155DD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Tacking/TackGybeController.cs">
+    <Files>
+      <File FileName="Assets/Imports/Obi/Sample Scenes/SampleResources/Scripts/ObjectDragger.cs" Line="39" Column="10" />
+      <File FileName="Assets/Imports/Obi/Sample Scenes/SampleResources/Scripts/ObiActorTeleport.cs" Line="1" Column="1" />
+      <File FileName="Assets/Imports/Obi/Sample Scenes/SampleResources/Scripts/GrapplingHook.cs" Line="68" Column="46" />
+      <File FileName="Assets/Imports/Obi/Sample Scenes/SampleResources/Scripts/CursorController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Imports/Obi/Sample Scenes/SampleResources/Scripts/CraneController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Imports/Obi/Sample Scenes/SampleResources/Scripts/ColliderHighlighter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Imports/Obi/Sample Scenes/SampleResources/Scripts/CharacterControl2D.cs" Line="1" Column="1" />
+      <File FileName="Assets/Imports/Obi/Editor/ObiRopeEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Imports/Obi/Editor/ObiColliderEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/MouseDrag.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Ropes/RopeController.cs" Line="63" Column="71" />
+      <File FileName="Assets/Scripts/MainMenu/ButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Sailing Introduction/SailingIntroController.cs" Line="131" Column="12" />
+      <File FileName="Assets/Scripts/Tacking/TackGybeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.The_220Project PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Petra/GitHub/Sailing-Simulator/The Project/Assets/Imports/Obi/Resources/ObiMaterials/SimpleParticleShader.shader" relfile="Assets/Imports/Obi/Resources/ObiMaterials/SimpleParticleShader.shader" line="93" column="1" />
+      <Breakpoint file="/Users/Petra/GitHub/Sailing-Simulator/The Project/Assets/Imports/Obi/Resources/ObiMaterials/SimpleParticleShader.shader" relfile="Assets/Imports/Obi/Resources/ObiMaterials/SimpleParticleShader.shader" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
