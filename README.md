@@ -4,7 +4,7 @@ The aim of this project is to build a simple sailing game to teach novice sailor
 
 Game built using Unity Editor version 2017.3.0f3
 
-To run the executable go to: The Project > bin > Executable> The Project.exe
+To run the executable go to: bin/Executable> The Project.exe
 
 On the project configuraiton window do the following instructions: 
 
